@@ -1,8 +1,5 @@
-# Aula 11
+# Aula 14
 
-* Utilizar Cookies
-* Guardar o access token
-* Mudar de tela após o login
 
 
 
